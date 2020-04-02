@@ -1,4 +1,4 @@
-# bot_discord_cryptomonnaie
+# Bot_Discord_Crypto
 
 ## Description
 
